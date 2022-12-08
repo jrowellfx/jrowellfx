@@ -1,4 +1,6 @@
-### Hi there 👋
+# James Philip Rowell
+
+I have over 35 years of experience with computer animation, vfx production and software development. I'm happy to share some of my work here. Especially check out my repo for lsseq. Enjoy! 
 
 <!--
 **jrowellfx/jrowellfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
