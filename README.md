@@ -1,8 +1,10 @@
 # James Philip Rowell
 
-I have over 35 years of experience with computer animation, vfx production and software development. I'm happy to share some of my work here. 
+I have over 35 years of experience with computer animation, vfx production and software development.
+I'm happy to share some of my work here. 
 
-Please checkout my ❤️ [sponsor](https://github.com/sponsors/jrowellfx) ❤️ page for a fuller description of the work here and please consider sponsoring me here on github - MUCH APPRECIATED!
+Please checkout my ❤️ [sponsor](https://github.com/sponsors/jrowellfx) ❤️ page for a bit of my history
+and to please consider sponsoring my work here on github - MUCH APPRECIATED!
 
 Many thanks,  
 James.
