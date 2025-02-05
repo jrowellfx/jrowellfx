@@ -15,7 +15,7 @@ hang all the different programs together.
 But ultimately it all comes down to files on a file server, directories, and computer programs processing data.
 
 Even with all these powerful GUIs, I still find it to be immensely helpful be able to open a
-shell in a terminal program and get at the data that way.
+shell in a terminal program and get at the files that way.
 
 Throughout all these years a UNIX-like environment has been the platform of choice at 99.9 % of the studios.
 From the early days on Silicon Graphics machines, or Sun Workstations, to 
