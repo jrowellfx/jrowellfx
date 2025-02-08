@@ -26,8 +26,8 @@ be piped into other programs.
 
 My github repos provide these (among other) useful tools.
 
-- `lsseq` - A command-line tool in the spirit of /bin/ls but adding the ability to list image-sequences in a compact way.
-- `renumseq` - A command-line tool to renumber and/or rename frame sequences.
+- `lsseq` - A powerful utility akin to `/bin/ls` but adding the ability to list image-sequences in a compact way.
+- `renumseq` - A command-line tool to renumber and/or rename frame sequences, partner to `lsseq`.
 - `runsed` - A VERY helpful wrapper for `sed` that let's you easily review and if need be back out changes en-mass.
 - `time-stamp` - A command-line tool for printing the date and time which is a suitable embedding in filenames or directory.
 - `expandseq`/`condenseseq` - two complimentary tools for printing out lists of integers using a simple but standard VFX syntax for listing frame ranges.
