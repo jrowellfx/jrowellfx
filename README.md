@@ -20,12 +20,12 @@ be piped into other programs for further processing.
 
 My github repos provide these (among other) useful tools.
 
-- `lsseq` - A powerful utility akin to `/bin/ls` but adding the ability to list image-sequences in a compact way.
-- `renumseq` - A command-line tool to renumber and/or rename frame sequences, partner to `lsseq`.
-- `runsed` - A VERY helpful wrapper for `sed` that let's you easily review and if need be back out changes en-mass.
-- `time-stamp` - A command-line tool for printing the date and time which is a suitable embedding in file-names or directory-names.
-- `expandseq`/`condenseseq` - two complimentary tools for printing out lists of integers using a simple but standard VFX syntax for listing frame ranges.
-- `seqLister` - the python library used by several of those tools above which supports the syntax widely used within the VFX-industry for specifying frame-ranges.
+- [`lsseq`](https://github.com/jrowellfx/lsseq) - A powerful utility akin to `/bin/ls` but adding the ability to list image-sequences in a compact way.
+- [`renumseq`](https://github.com/jrowellfx/renumSeq) - A command-line tool to renumber and/or rename frame sequences, partner to `lsseq`.
+- [`runsed`](https://github.com/jrowellfx/vfxTdUtils?tab=readme-ov-file#about-runsed) - A VERY helpful wrapper for `sed` that let's you easily review and if need be back out changes en-mass.
+- [`time-stamp`](https://github.com/jrowellfx/vfxTdUtils?tab=readme-ov-file#about-time-stamp) - A command-line tool for printing the date and time which is a suitable embedding in file-names or directory-names.
+- [`expandseq`/`condenseseq`](https://github.com/jrowellfx/expandSeq) - two complimentary tools for printing out lists of integers using a simple but standard VFX syntax for listing frame ranges.
+- [`seqLister`](https://github.com/jrowellfx/seqLister) - the python library used by several of those tools above which supports the syntax widely used within the VFX-industry for specifying frame-ranges.
 
 Please checkout my ❤️ [sponsor](https://github.com/sponsors/jrowellfx) ❤️ page for a bit of my history
 and to please consider sponsoring my work on github - MUCH APPRECIATED!
