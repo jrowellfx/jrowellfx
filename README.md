@@ -8,7 +8,7 @@ These days we have amazing GUIs for almost all of our CG-tasks including powerfu
 hang all the different programs and data together.
 The work we generate ultimately comes down to data in (usually) many thousands of files within some kind of standardized directory-structure on a file server.
 
-Relying on my old-school way of working I ***still*** find it immensely helpful be able to open a
+Relying on my old-school way of working I still find it immensely helpful be able to open a
 shell in a terminal program to examine the files that way, and as such I've found a few tools to be indispensable. I've written several
 myself that were usually standard-issue at the big studios back-in-the-day, but not being publicly available
 I took it upon myself to create them.
